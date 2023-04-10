@@ -32,14 +32,6 @@ const About = () => {
                     </TouchableOpacity>
                 </View>
 
-                <Text style={styles.featureText}>
-                    {'\n'}Alertas
-                </Text>
-
-                <Text style={styles.featureText}>
-                    {'\n'}Tabelas
-                </Text>
-
             </View>
 
         </ScrollView>
